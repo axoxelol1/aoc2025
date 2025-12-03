@@ -1,0 +1,4 @@
+*.txt
+.clangd
+.clang-format
+main
